@@ -1,2 +1,2 @@
-include ':app', ':model', ':shared'
+include ':app', ':model', ':shared', ':login'
 rootProject.name='TrungIO'
